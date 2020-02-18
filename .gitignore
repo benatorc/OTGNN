@@ -1,0 +1,6 @@
+output*
+scripts*
+.nfs*
+__pycache__/
+draws/
+*/__pycache__/
