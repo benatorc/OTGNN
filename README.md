@@ -1,5 +1,8 @@
 # Mol OT
 
+Source code for the paper "Optimal Transport Graph Neural Networks" , Gary Bécigneul, Octavian-Eugen Ganea, Benson Chen, Regina Barzilay Tommi Jaakkola
+
+
 Dependencies required:
 ```
 conda create -n mol_ot python=3.6.8
